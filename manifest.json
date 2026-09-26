@@ -1,0 +1,28 @@
+{
+  "name": "የቤተ ዮሴፍ መካነ ኢየሱስ ኃላፊነቱ የተወሰነ የገንዘብ ቁጠባና ብድር ህብረት ስራ ማህበር የገቢና ወጭ መቆጣጠሪያ አስተዳደር ሲስተም",
+  "short_name": "የቤተ ዮሴፍ ገንዘብ",
+  "description": "የቤተ ዮሴፍ ህብረት ስራ ማህበር የገቢና ወጭ መቆጣጠሪያ አስተዳደር ሲስተም — ኦንላይን እና ኦፍላይን የሚሰራ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#2c3e50",
+  "theme_color": "#2c3e50",
+  "lang": "am",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
